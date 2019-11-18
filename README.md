@@ -16,7 +16,8 @@ Windows用に作成されたアプリケーションおよびドライバーと�
 そして、ReactOS 日本語版は、mebius(@98mebius)が独自にビルドした派生版です。
 オリジナルのReactOS チームに公式に認められたバージョンではないことを予めご理解ください。
 
-日本語版の詳細について: http://98mebius.starfree.jp/reactos_jpn
+日本語版の詳細について: http://98mebius.starfree.jp/reactos_jpn/
+
 本家の詳細について: https://www.reactos.org
 
 
