@@ -26,7 +26,7 @@ ReactOSのコードは [GNU GPL 2.0](https://github.com/reactos/reactos/blob/mas
 
 ## Building
 
-[![appveyor.badge]][appveyor.link] [![travis.badge]][travis.link] [![rosbewin.badge]][rosbewin.link] [![rosbeunix.badge]][rosbeunix.link] [![coverity.badge]][coverity.link]
+
 
 To build the system it is strongly advised to use the _ReactOS Build Environment (RosBE)._
 Up-to-date versions for Windows and for Unix/GNU-Linux are available from our download page at: ["Build Environment"](http://www.reactos.org/wiki/Build_Environment).
@@ -68,7 +68,7 @@ See ["File Bugs"](https://www.reactos.org/wiki/File_Bugs) for a guide.
 
 __NOTE:__ The bug tracker is _not_ for discussions. Please use `#reactos` Freenode IRC channel or our [forum](https://reactos.org/forum).
 
-## Contributing  ![prwelcome.badge]
+## Contributing  
 
 We are always looking for developers! Check [how to contribute](CONTRIBUTING.md) if you are willing to participate.
 
