@@ -20,7 +20,7 @@ Windows用に作成されたアプリケーションおよびドライバーと�
 本家の詳細については、https：//www.reactos.orgをご覧ください。
 
 
-ReactOSのコードは [GNU GPL 2.0](https://github.com/reactos/reactos/blob/master/COPYING)のライセンスに準拠します。
+ReactOSおよびReactOS 日本語版のコードは [GNU GPL 2.0](https://github.com/reactos/reactos/blob/master/COPYING)のライセンスに準拠します。
 
 ***ReactOSは現在アルファ版の段階にあり、動作が不安定です。***
 
