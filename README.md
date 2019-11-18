@@ -6,46 +6,23 @@
 
 ---
 
-<p align=center>
-  <a href="https://reactos.org/project-news/reactos-0412-released">
-    <img alt="ReactOS 0.4.12 Release" src="https://img.shields.io/badge/release-0.4.12-0688CB.svg">
-  </a>
-  <a href="https://reactos.org/download">
-    <img alt="Download ReactOS" src="https://img.shields.io/badge/download-latest-0688CB.svg">
-  </a>
-  <a href="https://sourceforge.net/projects/reactos">
-    <img alt="SourceForge Download" src="https://img.shields.io/sourceforge/dm/reactos.svg?colorB=0688CB">
-  </a>
-  <a href="https://github.com/reactos/reactos/blob/master/COPYING">
-    <img alt="License" src="https://img.shields.io/badge/license-GNU_GPL_2.0-0688CB.svg">
-  </a>
-  <a href="https://reactos.org/donating">
-    <img alt="Donate" src="https://img.shields.io/badge/%24-donate-E44E4A.svg">
-  </a>
-  <a href="https://twitter.com/reactos">
-    <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/reactos.svg?style=social&label=Follow%20%40reactos">
-  </a>
-</p>
 
-## Quick Links
-[Website](https://reactos.org) &bull; 
-[Official chat](https://chat.reactos.org) &bull; 
-[Wiki](https://reactos.org/wiki) &bull; 
-[Forum](https://reactos.org/forum) &bull; 
-[JIRA Bug Tracker](https://jira.reactos.org/issues) &bull; 
-[ReactOS Git mirror](https://git.reactos.org) &bull; 
-[Testman](https://reactos.org/testman/)
+## ReactOS 日本語版について
+
+ReactOS™は、オープンソースで開発されている、Microsoft®Windows™NT互換のOSです。
+Windows用に作成されたアプリケーションおよびドライバーとの互換性の実現を目指しています。
+（ここでのWindows™NTとは、NT4, 2000, XP, Vista, 7, 8, 10などのNTファミリーを指します。）
+
+そして、ReactOS 日本語版は、mebius(@98mebius)が独自にビルドした派生版です。
+オリジナルのReactOS チームに公式に認められたバージョンではないことを予めご理解ください。
+
+日本語版の詳細についてはhttp://98mebius.starfree.jp/reactos_jpn/をご覧ください。
+本家の詳細については、https：//www.reactos.orgをご覧ください。
 
 
-## What is ReactOS?
+ReactOSのコードは [GNU GPL 2.0](https://github.com/reactos/reactos/blob/master/COPYING)のライセンスに準拠します。
 
-ReactOS™ is an Open Source effort to develop a quality operating system that is compatible with applications and drivers written for the Microsoft® Windows™ NT family of operating systems (NT4, 2000, XP, 2003, Vista, Seven).
-
-The ReactOS project, although currently focused on Windows Server 2003 compatibility, is always keeping an eye toward compatibility with Windows Vista and future Windows NT releases.
-
-The code of ReactOS is licensed under [GNU GPL 2.0](https://github.com/reactos/reactos/blob/master/COPYING).
-
-***ReactOS is currently an Alpha quality operating system. This means that ReactOS is under heavy development, things may not work well and it can corrupt the data present on your hard disk. It is recommended to test ReactOS on a virtual machine or on a computer with no sensitive or critical data!***
+***ReactOSは現在アルファ版の段階にあり、動作が不安定です。***
 
 ## Building
 
